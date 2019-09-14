@@ -7,11 +7,17 @@ using System.Threading.Tasks;
 
 namespace Classes
 {
+    public enum ShippingMethod
+    {
+        RegularAirMail = 1,
+        RegisteredAirMail = 2,
+        Express = 3
+    }
     class Program
     {
         static void Main(string[] args)
         {
-            Person shaili = new Person();
+            /*Person shaili = new Person();
             shaili.firstName = "Shaili";
             shaili.lastName = "Jha";
             shaili.Introduce();
@@ -49,7 +55,19 @@ namespace Classes
 Look into the following path
 c:\f1\f2
 c:\f3\f4";
-            Console.WriteLine(sampleText);
+            Console.WriteLine(sampleText);*/
+
+            var method = ShippingMethod.Express;
+            Console.WriteLine((int)method);
+
+            var methodId = 4;
+            Console.WriteLine((ShippingMethod)methodId);
+
+            Console.WriteLine(method);
+
+            var sampleString = "RegularAirMail";
+            var sample = (ShippingMethod)Enum.Parse(typeof(ShippingMethod), sampleString);
+            Console.WriteLine(sample);
         }
     }
 }
