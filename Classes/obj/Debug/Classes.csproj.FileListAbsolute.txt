@@ -1,0 +1,6 @@
+C:\Users\shail\source\repos\HelloWorld\Classes\bin\Debug\Classes.exe.config
+C:\Users\shail\source\repos\HelloWorld\Classes\bin\Debug\Classes.exe
+C:\Users\shail\source\repos\HelloWorld\Classes\bin\Debug\Classes.pdb
+C:\Users\shail\source\repos\HelloWorld\Classes\obj\Debug\Classes.csproj.CoreCompileInputs.cache
+C:\Users\shail\source\repos\HelloWorld\Classes\obj\Debug\Classes.exe
+C:\Users\shail\source\repos\HelloWorld\Classes\obj\Debug\Classes.pdb
