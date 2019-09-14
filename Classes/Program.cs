@@ -33,6 +33,23 @@ namespace Classes
             Console.WriteLine(flags[2]);
 
             var names = new string[3] { "Shaili", "Tatshini", "Naveen" };
+
+            var firstName = "Shaili";
+            var lastName = "Jha";
+
+            var name = string.Format("My name is {0} {1}", firstName, lastName);
+
+            Console.WriteLine(name);
+
+            var friendsNames = string.Format("My friends names are {0}", string.Join(",",names));
+
+            Console.WriteLine(friendsNames);
+
+            var sampleText = @"Hi Shaili
+Look into the following path
+c:\f1\f2
+c:\f3\f4";
+            Console.WriteLine(sampleText);
         }
     }
 }
