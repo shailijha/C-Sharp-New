@@ -71,7 +71,7 @@ c:\f3\f4";
             var sample = (ShippingMethod)Enum.Parse(typeof(ShippingMethod), sampleString);
             Console.WriteLine(sample);*/
 
-            int hour = 10;
+            /*int hour = 10;
             if(hour > 0 && hour < 12)
             {
                 Console.WriteLine("It's morning");
@@ -108,6 +108,12 @@ c:\f3\f4";
                 default:
                     Console.WriteLine("Invalid Season");
                     break;
+            }*/
+
+            for(var i = 1; i <= 10; i++)
+            {
+                if (i % 2 == 0)
+                    Console.WriteLine(i);
             }
         }
     }
