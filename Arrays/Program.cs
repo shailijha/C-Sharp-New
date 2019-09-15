@@ -49,6 +49,35 @@ namespace Arrays
             Console.WriteLine("Effect of Reverse() on copiedArray");
             foreach (var item in copiedArray)
                 Console.WriteLine(item);
+            Console.WriteLine();
+            
+            // Lists
+            var nums = new List<int>() { 1, 2, 3, 4 };
+
+            nums.Add(1);
+            nums.AddRange(new int[3] { 6, 7, 8 });
+            Console.WriteLine("List members");
+            foreach(var num in nums)
+                Console.WriteLine(num);
+            Console.WriteLine();
+
+            Console.WriteLine("Index of 1 is: "+nums.IndexOf(1));
+            Console.WriteLine("Last Index of 1 is: " + nums.LastIndexOf(1));
+
+            Console.WriteLine("Count: "+nums.Count);
+
+            for(var i = 0; i < nums.Count; i++)
+            {
+                if(nums[i] == 1)
+                    nums.Remove(nums[i]);
+            }
+
+            foreach (var num in nums)
+                Console.WriteLine(num);
+            Console.WriteLine();
+
+            nums.Clear();
+            Console.WriteLine("Count: " + nums.Count);
         }
     }
 }
