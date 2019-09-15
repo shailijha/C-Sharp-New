@@ -1,0 +1,6 @@
+C:\Users\shail\source\repos\HelloWorld\Loops Exercise\bin\Debug\Loops Exercise.exe.config
+C:\Users\shail\source\repos\HelloWorld\Loops Exercise\bin\Debug\Loops Exercise.exe
+C:\Users\shail\source\repos\HelloWorld\Loops Exercise\bin\Debug\Loops Exercise.pdb
+C:\Users\shail\source\repos\HelloWorld\Loops Exercise\obj\Debug\Loops Exercise.csproj.CoreCompileInputs.cache
+C:\Users\shail\source\repos\HelloWorld\Loops Exercise\obj\Debug\Loops Exercise.exe
+C:\Users\shail\source\repos\HelloWorld\Loops Exercise\obj\Debug\Loops Exercise.pdb
