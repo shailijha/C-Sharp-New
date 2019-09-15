@@ -1,0 +1,7 @@
+C:\Users\shail\source\repos\HelloWorld\Arrays\bin\Debug\Arrays.exe.config
+C:\Users\shail\source\repos\HelloWorld\Arrays\bin\Debug\Arrays.exe
+C:\Users\shail\source\repos\HelloWorld\Arrays\bin\Debug\Arrays.pdb
+C:\Users\shail\source\repos\HelloWorld\Arrays\obj\Debug\Arrays.csprojAssemblyReference.cache
+C:\Users\shail\source\repos\HelloWorld\Arrays\obj\Debug\Arrays.csproj.CoreCompileInputs.cache
+C:\Users\shail\source\repos\HelloWorld\Arrays\obj\Debug\Arrays.exe
+C:\Users\shail\source\repos\HelloWorld\Arrays\obj\Debug\Arrays.pdb
