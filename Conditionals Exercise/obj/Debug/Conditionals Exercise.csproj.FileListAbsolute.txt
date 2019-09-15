@@ -1,0 +1,7 @@
+C:\Users\shail\source\repos\HelloWorld\Conditionals Exercise\bin\Debug\Conditionals Exercise.exe.config
+C:\Users\shail\source\repos\HelloWorld\Conditionals Exercise\bin\Debug\Conditionals Exercise.exe
+C:\Users\shail\source\repos\HelloWorld\Conditionals Exercise\bin\Debug\Conditionals Exercise.pdb
+C:\Users\shail\source\repos\HelloWorld\Conditionals Exercise\obj\Debug\Conditionals Exercise.csprojAssemblyReference.cache
+C:\Users\shail\source\repos\HelloWorld\Conditionals Exercise\obj\Debug\Conditionals Exercise.csproj.CoreCompileInputs.cache
+C:\Users\shail\source\repos\HelloWorld\Conditionals Exercise\obj\Debug\Conditionals Exercise.exe
+C:\Users\shail\source\repos\HelloWorld\Conditionals Exercise\obj\Debug\Conditionals Exercise.pdb
