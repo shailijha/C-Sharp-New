@@ -20,19 +20,19 @@ namespace Loops_Exercise
             Console.WriteLine(string.Format("There are {0} numbers between 1 and 100 that leave remainder 0 when divided by 3",count));
 
             //Problem 2
-            //float sum = 0;
-            //while(true)
-            //{
-            //    Console.Write("Enter a number ");
-            //    var input = Console.ReadLine();
-            //    if(input == "ok")
-            //    {
-            //        break;
-            //    }
-            //    else
-            //        sum += float.Parse(input);
-            //}
-            //Console.WriteLine("The sum is "+sum);
+            float sum = 0;
+            while(true)
+            {
+                Console.Write("Enter a number ");
+                var input2 = Console.ReadLine();
+                if(input2 == "ok")
+                {
+                    break;
+                }
+                else
+                    sum += float.Parse(input2);
+            }
+            Console.WriteLine("The sum is "+sum);
 
             //Problem 3
             Console.Write("Enter a number ");
@@ -59,6 +59,18 @@ namespace Loops_Exercise
                 Console.WriteLine("You lost");
             else
                 Console.WriteLine("You Won!");
+
+            //Problem 5
+            Console.WriteLine("Enter a series of numbers separated by a comma ");
+            var input1 = Console.ReadLine();
+            string[] nums = input1.Split(',');
+            float max = -1;
+            foreach(var num in nums)
+            {
+                if (max < float.Parse(num))
+                    max = float.Parse(num);
+            }
+            Console.WriteLine(string.Format("The max of {0} is {1}",input1, max));
         }
     }
 }
