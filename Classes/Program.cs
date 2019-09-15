@@ -128,16 +128,24 @@ c:\f3\f4";
             //    Console.WriteLine(character);
             //}
 
-            while(true)
-            {
-                Console.Write("Type your name: ");
-                var input = Console.ReadLine();
+            //while(true)
+            //{
+            //    Console.Write("Type your name: ");
+            //    var input = Console.ReadLine();
 
-                if(String.IsNullOrWhiteSpace(input))
-                    break;
-                else
-                    Console.WriteLine(input);
+            //    if(String.IsNullOrWhiteSpace(input))
+            //        break;
+            //    else
+            //        Console.WriteLine(input);
+            //}
+
+            var random = new Random();
+
+            for(var i = 0; i < 10; i++)
+            {
+                Console.Write((char)('a' + random.Next(0,26)));
             }
+            Console.WriteLine();
 
         }
     }
