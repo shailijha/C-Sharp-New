@@ -13,6 +13,8 @@ namespace Classes
         RegisteredAirMail = 2,
         Express = 3
     }
+
+
     class Program
     {
         static void Main(string[] args)
@@ -57,7 +59,7 @@ c:\f1\f2
 c:\f3\f4";
             Console.WriteLine(sampleText);*/
 
-            var method = ShippingMethod.Express;
+            /*var method = ShippingMethod.Express;
             Console.WriteLine((int)method);
 
             var methodId = 4;
@@ -67,7 +69,46 @@ c:\f3\f4";
 
             var sampleString = "RegularAirMail";
             var sample = (ShippingMethod)Enum.Parse(typeof(ShippingMethod), sampleString);
-            Console.WriteLine(sample);
+            Console.WriteLine(sample);*/
+
+            int hour = 10;
+            if(hour > 0 && hour < 12)
+            {
+                Console.WriteLine("It's morning");
+            }
+            else if(hour >=12 && hour <= 16)
+            {
+                Console.WriteLine("It's afternoon");
+            }
+            else if (hour > 16 && hour < 19)
+            {
+                Console.WriteLine("It's evening");
+            }
+            else
+            {
+                Console.WriteLine("It's night");
+            }
+
+            var season = Season.Summer;
+
+            switch (season)
+            {
+                case Season.Spring:
+                    Console.WriteLine("It's Spring Season!");
+                    break;
+                case Season.Summer:
+                    Console.WriteLine("It's Summer Season!");
+                    break;
+                case Season.Autumn:
+                    Console.WriteLine("It's Autumn Season!");
+                    break;
+                case Season.Winter:
+                    Console.WriteLine("It's Winter Season!");
+                    break;
+                default:
+                    Console.WriteLine("Invalid Season");
+                    break;
+            }
         }
     }
 }
