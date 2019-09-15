@@ -115,6 +115,18 @@ c:\f3\f4";
                 if (i % 2 == 0)
                     Console.WriteLine(i);
             }
+
+            var name = "Shaili Jha";
+
+            //for(var i = 0; i < name.Length; i++)
+            //{
+            //    Console.WriteLine(name[i]);
+            //}
+
+            foreach(var character in name)
+            {
+                Console.WriteLine(character);
+            }
         }
     }
 }
