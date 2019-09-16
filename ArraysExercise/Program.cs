@@ -15,7 +15,7 @@ namespace ArraysExercise
             string name = Console.ReadLine();
             char[] nameSplit = name.ToCharArray();
             Array.Reverse(nameSplit);
-
+            Console.WriteLine("Reverse of "+name+": ");
             foreach(var character in nameSplit)
                 Console.Write(character);
             Console.WriteLine();
@@ -47,6 +47,61 @@ namespace ArraysExercise
             {
                 Console.Write(item + ", ");
             }
+
+            //Problem 4
+            var nums1 = new List<int>();
+            while(true)
+            {
+                Console.WriteLine("Enter a number or type Quit to exit ");
+                var temp = Console.ReadLine();
+                if(temp.ToLower() != "quit")
+                {
+                    int num = Convert.ToInt32(temp);
+                    if (nums1.IndexOf(num) == -1)
+                        nums1.Add(num);
+                    continue;
+                }
+                else if(temp.ToLower() == "quit")
+                    break;
+            }
+            //Console.WriteLine(nums1.Count);
+            foreach (var num in nums1)
+                Console.WriteLine(num);
+            Console.WriteLine();
+
+            //Problem 5
+
+            while (true)
+            {
+                Console.WriteLine("Enter comma separated numbers :");
+                var input = Console.ReadLine();
+                string[] inputArray = input.Split(',');
+                var numbers = new int[5];
+                int i1 = 0;
+
+                if (inputArray.Length == 0 || inputArray.Length < 5)
+                {
+                    Console.WriteLine("Invalid List");
+                    continue;
+                }
+                else
+                {
+                    foreach (var str in inputArray)
+                    {
+                        numbers[i1] = Convert.ToInt32(str);
+                        i1++;
+                    }
+                    Array.Sort(numbers);
+                    var i2 = 0;
+                    while (i2 < 3)
+                    {
+                        Console.Write(numbers[i2] + ", ");
+                        i2++;
+                    }
+                    break;
+                }
+            }
+            Console.WriteLine();
         }
     }
 }
