@@ -19,7 +19,7 @@ namespace Classes
     {
         static void Main(string[] args)
         {
-            /*Person shaili = new Person();
+            Person shaili = new Person();
             shaili.firstName = "Shaili";
             shaili.lastName = "Jha";
             shaili.Introduce();
@@ -57,9 +57,9 @@ namespace Classes
 Look into the following path
 c:\f1\f2
 c:\f3\f4";
-            Console.WriteLine(sampleText);*/
+            Console.WriteLine(sampleText);
 
-            /*var method = ShippingMethod.Express;
+            var method = ShippingMethod.Express;
             Console.WriteLine((int)method);
 
             var methodId = 4;
@@ -69,9 +69,9 @@ c:\f3\f4";
 
             var sampleString = "RegularAirMail";
             var sample = (ShippingMethod)Enum.Parse(typeof(ShippingMethod), sampleString);
-            Console.WriteLine(sample);*/
+            Console.WriteLine(sample);
 
-            /*int hour = 10;
+            int hour = 10;
             if(hour > 0 && hour < 12)
             {
                 Console.WriteLine("It's morning");
@@ -108,7 +108,7 @@ c:\f3\f4";
                 default:
                     Console.WriteLine("Invalid Season");
                     break;
-            }*/
+            }
 
             //for(var i = 1; i <= 10; i++)
             //{
