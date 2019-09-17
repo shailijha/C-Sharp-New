@@ -1,0 +1,7 @@
+C:\Users\shail\source\repos\HelloWorld\TextExercise\bin\Debug\TextExercise.exe.config
+C:\Users\shail\source\repos\HelloWorld\TextExercise\bin\Debug\TextExercise.exe
+C:\Users\shail\source\repos\HelloWorld\TextExercise\bin\Debug\TextExercise.pdb
+C:\Users\shail\source\repos\HelloWorld\TextExercise\obj\Debug\TextExercise.csprojAssemblyReference.cache
+C:\Users\shail\source\repos\HelloWorld\TextExercise\obj\Debug\TextExercise.csproj.CoreCompileInputs.cache
+C:\Users\shail\source\repos\HelloWorld\TextExercise\obj\Debug\TextExercise.exe
+C:\Users\shail\source\repos\HelloWorld\TextExercise\obj\Debug\TextExercise.pdb
