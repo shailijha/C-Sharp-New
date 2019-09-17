@@ -17,6 +17,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ArraysExercise", "ArraysExe
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Text", "Text\Text.csproj", "{C8B9AFF4-2399-40B9-A984-CB0EF934B33C}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TextExercise", "TextExercise\TextExercise.csproj", "{5A88E684-5A29-484F-8346-3E262F44A62F}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -51,6 +53,10 @@ Global
 		{C8B9AFF4-2399-40B9-A984-CB0EF934B33C}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{C8B9AFF4-2399-40B9-A984-CB0EF934B33C}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{C8B9AFF4-2399-40B9-A984-CB0EF934B33C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5A88E684-5A29-484F-8346-3E262F44A62F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5A88E684-5A29-484F-8346-3E262F44A62F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5A88E684-5A29-484F-8346-3E262F44A62F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5A88E684-5A29-484F-8346-3E262F44A62F}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
