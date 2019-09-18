@@ -33,13 +33,25 @@ namespace Files
             fileInfo.OpenRead();*/
 
             //Directory.CreateDirectory(@"c:\Users\shail\TempFolder");
-            var jpgFiles = Directory.GetFiles(@"c:\Users\shail", "*.*");
+            /*var jpgFiles = Directory.GetFiles(@"c:\Users\shail", "*.*");
             foreach (var item in jpgFiles)
                 Console.Write(item + " ");
 
             var directories = Directory.GetDirectories(@"C:\Users\shail\OneDrive\Desktop\CareerDevs", "*.*", SearchOption.AllDirectories);
             foreach (var item in directories)
                 Console.WriteLine(item + " ");
+            Directory.Exists("...");
+
+            var directoryInfo = new DirectoryInfo("...");
+            directoryInfo.GetFiles();
+            directoryInfo.GetDirectories();*/
+
+            var path = @"C:\Projects\HelloWorld\HelloWorld.sln";
+
+            Console.WriteLine("Extension: "+Path.GetExtension(path));
+            Console.WriteLine("FileName: " + Path.GetFileName(path));
+            Console.WriteLine("FileName without extension: " + Path.GetFileNameWithoutExtension(path));
+            Console.WriteLine("Directory Name: " + Path.GetDirectoryName(path));
         }
     }
 }
