@@ -11,7 +11,7 @@ namespace Files
     {
         static void Main(string[] args)
         {
-            var sourcePath = @"C:\Users\shail\bob.jpg";
+            /*var sourcePath = @"C:\Users\shail\bob.jpg";
             var destPath = @"C:\Users\shail\Desktop\bobcopy.jpg";
             File.Copy(sourcePath, destPath , true);
             
@@ -30,7 +30,16 @@ namespace Files
             {
                 // Do something
             }
-            fileInfo.OpenRead();
+            fileInfo.OpenRead();*/
+
+            //Directory.CreateDirectory(@"c:\Users\shail\TempFolder");
+            var jpgFiles = Directory.GetFiles(@"c:\Users\shail", "*.*");
+            foreach (var item in jpgFiles)
+                Console.Write(item + " ");
+
+            var directories = Directory.GetDirectories(@"C:\Users\shail\OneDrive\Desktop\CareerDevs", "*.*", SearchOption.AllDirectories);
+            foreach (var item in directories)
+                Console.WriteLine(item + " ");
         }
     }
 }
