@@ -1,0 +1,7 @@
+C:\Users\shail\source\repos\HelloWorld\Module1\bin\Debug\Module1.exe.config
+C:\Users\shail\source\repos\HelloWorld\Module1\bin\Debug\Module1.exe
+C:\Users\shail\source\repos\HelloWorld\Module1\bin\Debug\Module1.pdb
+C:\Users\shail\source\repos\HelloWorld\Module1\obj\Debug\Module1.csprojAssemblyReference.cache
+C:\Users\shail\source\repos\HelloWorld\Module1\obj\Debug\Module1.csproj.CoreCompileInputs.cache
+C:\Users\shail\source\repos\HelloWorld\Module1\obj\Debug\Module1.exe
+C:\Users\shail\source\repos\HelloWorld\Module1\obj\Debug\Module1.pdb
