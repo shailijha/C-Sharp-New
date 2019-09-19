@@ -20,6 +20,13 @@ namespace Module1
             var anon = new { Name = "Shaili", Age = 27 };
 
             Console.WriteLine($"{anon.Name} {anon.Age}");
+
+            Manager sampleManager = new Manager();
+            sampleManager.Department = "HR";
+            sampleManager.Login();
+            sampleManager.Hire();
         }
     }
+
+
 }
