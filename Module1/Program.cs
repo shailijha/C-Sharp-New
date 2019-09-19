@@ -10,10 +10,11 @@ namespace Module1
     {
         static void Main(string[] args)
         {
-            DrinksMachine myMachine = new DrinksMachine("Hyderabad, India", "DM1000", "Brand");
-            
-            Console.WriteLine("myMachine location: {0}, myMachine make: {1}, myMachine model: {2}", myMachine.Location, myMachine.Make, myMachine.Model);
-            myMachine.MakeCappuccino();
+            //drinksmachine mymachine = new drinksmachine("hyderabad, india", "dm1000", "brand");
+
+            //console.writeline("mymachine location: {0}, mymachine make: {1}, mymachine model: {2}", mymachine.location, mymachine.make, mymachine.model);
+            //mymachine.makecappuccino();
+            Console.WriteLine(Math.Pow(2, 5));
         }
     }
 }
