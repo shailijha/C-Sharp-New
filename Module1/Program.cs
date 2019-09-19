@@ -15,6 +15,11 @@ namespace Module1
             //console.writeline("mymachine location: {0}, mymachine make: {1}, mymachine model: {2}", mymachine.location, mymachine.make, mymachine.model);
             //mymachine.makecappuccino();
             Console.WriteLine(Math.Pow(2, 5));
+
+            //Creating anonymous class
+            var anon = new { Name = "Shaili", Age = 27 };
+
+            Console.WriteLine($"{anon.Name} {anon.Age}");
         }
     }
 }
