@@ -6,7 +6,9 @@ using System.Threading.Tasks;
 
 namespace SelfAssessment
 {
-    class Student
+    public class Student
     {
+        public string Name { get; set; }
+
     }
 }
