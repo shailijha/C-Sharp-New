@@ -10,6 +10,11 @@ namespace Mod2_Lab
     {
         static void Main(string[] args)
         {
+            var emp1 = new Employee("Shaili", 20000);
+            var emp2 = new TechnicalEmployee("XYZ");
+            var emp3 = new BusinessEmployee("ABC");
+
+            Console.WriteLine($"{emp1.employeeStatus()} ... {emp2.employeeStatus()} ... {emp3.employeeStatus()}");
         }
     }
 }
