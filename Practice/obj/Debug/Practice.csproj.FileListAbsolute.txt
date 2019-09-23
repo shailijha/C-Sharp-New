@@ -1,0 +1,7 @@
+C:\Users\shail\source\repos\HelloWorld\Practice\bin\Debug\Practice.exe.config
+C:\Users\shail\source\repos\HelloWorld\Practice\bin\Debug\Practice.exe
+C:\Users\shail\source\repos\HelloWorld\Practice\bin\Debug\Practice.pdb
+C:\Users\shail\source\repos\HelloWorld\Practice\obj\Debug\Practice.csprojAssemblyReference.cache
+C:\Users\shail\source\repos\HelloWorld\Practice\obj\Debug\Practice.csproj.CoreCompileInputs.cache
+C:\Users\shail\source\repos\HelloWorld\Practice\obj\Debug\Practice.exe
+C:\Users\shail\source\repos\HelloWorld\Practice\obj\Debug\Practice.pdb
