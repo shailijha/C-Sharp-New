@@ -10,7 +10,7 @@ namespace Mod2_Lab
     {
         static void Main(string[] args)
         {
-            var emp1 = new Employee("Shaili", 20000);
+            var emp1 = new TechnicalEmployee("Shaili");
             var emp2 = new TechnicalEmployee("XYZ");
             var emp3 = new BusinessEmployee("ABC");
 
