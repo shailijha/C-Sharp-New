@@ -41,6 +41,11 @@ namespace Practice
             //p3.Introduce("Mosh");
 
             var customer = new Customer(1, "John");
+
+            var order = new Order();
+            //customer.Orders = new List<Order>();
+            // customer.Orders.Add(order);
+
             Console.WriteLine($"{customer.id} {customer.name}");
         }
     }
