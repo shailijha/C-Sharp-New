@@ -1,0 +1,7 @@
+C:\Users\shail\source\repos\HelloWorld\Method Demo\bin\Debug\Method Demo.exe.config
+C:\Users\shail\source\repos\HelloWorld\Method Demo\bin\Debug\Method Demo.exe
+C:\Users\shail\source\repos\HelloWorld\Method Demo\bin\Debug\Method Demo.pdb
+C:\Users\shail\source\repos\HelloWorld\Method Demo\obj\Debug\Method Demo.csprojAssemblyReference.cache
+C:\Users\shail\source\repos\HelloWorld\Method Demo\obj\Debug\Method Demo.csproj.CoreCompileInputs.cache
+C:\Users\shail\source\repos\HelloWorld\Method Demo\obj\Debug\Method Demo.exe
+C:\Users\shail\source\repos\HelloWorld\Method Demo\obj\Debug\Method Demo.pdb
