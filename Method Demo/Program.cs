@@ -10,12 +10,16 @@ namespace Method_Demo
     {
         static void Main(string[] args)
         {
-            int number;
-            var result = int.TryParse("abc", out number);
-            if(result)
-                Console.WriteLine(result);
-            else
-                Console.WriteLine("Not converted");
+            //int number;
+            //var result = int.TryParse("abc", out number);
+            //if(result)
+            //    Console.WriteLine(result);
+            //else
+            //    Console.WriteLine("Not converted");
+
+            var person = new Person();
+            person.SetBirthDate(new DateTime(1992, 9, 11));
+            Console.WriteLine(person.GetBirthDate());
         }
 
         static void UseParams()
