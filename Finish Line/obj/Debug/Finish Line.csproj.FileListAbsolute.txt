@@ -1,0 +1,7 @@
+C:\Users\shail\source\repos\HelloWorld\Finish Line\bin\Debug\Finish Line.exe.config
+C:\Users\shail\source\repos\HelloWorld\Finish Line\bin\Debug\Finish Line.exe
+C:\Users\shail\source\repos\HelloWorld\Finish Line\bin\Debug\Finish Line.pdb
+C:\Users\shail\source\repos\HelloWorld\Finish Line\obj\Debug\Finish Line.csprojAssemblyReference.cache
+C:\Users\shail\source\repos\HelloWorld\Finish Line\obj\Debug\Finish Line.csproj.CoreCompileInputs.cache
+C:\Users\shail\source\repos\HelloWorld\Finish Line\obj\Debug\Finish Line.exe
+C:\Users\shail\source\repos\HelloWorld\Finish Line\obj\Debug\Finish Line.pdb
