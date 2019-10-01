@@ -1,0 +1,10 @@
+C:\Users\shail\source\repos\HelloWorld\Inheritance\bin\Debug\Inheritance.exe.config
+C:\Users\shail\source\repos\HelloWorld\Inheritance\bin\Debug\Inheritance.exe
+C:\Users\shail\source\repos\HelloWorld\Inheritance\bin\Debug\Inheritance.pdb
+C:\Users\shail\source\repos\HelloWorld\Inheritance\obj\Debug\Inheritance.csprojAssemblyReference.cache
+C:\Users\shail\source\repos\HelloWorld\Inheritance\obj\Debug\Inheritance.csproj.CoreCompileInputs.cache
+C:\Users\shail\source\repos\HelloWorld\Inheritance\obj\Debug\Inheritance.exe
+C:\Users\shail\source\repos\HelloWorld\Inheritance\obj\Debug\Inheritance.pdb
+C:\Users\shail\source\repos\HelloWorld\Inheritance\bin\Debug\Amazon.dll
+C:\Users\shail\source\repos\HelloWorld\Inheritance\bin\Debug\Amazon.pdb
+C:\Users\shail\source\repos\HelloWorld\Inheritance\obj\Debug\Inheritance.csproj.CopyComplete
