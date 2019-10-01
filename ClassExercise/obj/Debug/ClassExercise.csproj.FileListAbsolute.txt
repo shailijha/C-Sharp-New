@@ -1,0 +1,7 @@
+C:\Users\shail\source\repos\HelloWorld\ClassExercise\bin\Debug\ClassExercise.exe.config
+C:\Users\shail\source\repos\HelloWorld\ClassExercise\bin\Debug\ClassExercise.exe
+C:\Users\shail\source\repos\HelloWorld\ClassExercise\bin\Debug\ClassExercise.pdb
+C:\Users\shail\source\repos\HelloWorld\ClassExercise\obj\Debug\ClassExercise.csprojAssemblyReference.cache
+C:\Users\shail\source\repos\HelloWorld\ClassExercise\obj\Debug\ClassExercise.csproj.CoreCompileInputs.cache
+C:\Users\shail\source\repos\HelloWorld\ClassExercise\obj\Debug\ClassExercise.exe
+C:\Users\shail\source\repos\HelloWorld\ClassExercise\obj\Debug\ClassExercise.pdb
