@@ -1,0 +1,7 @@
+C:\Users\shail\source\repos\HelloWorld\Go Fish\bin\Debug\Go Fish.exe.config
+C:\Users\shail\source\repos\HelloWorld\Go Fish\bin\Debug\Go Fish.exe
+C:\Users\shail\source\repos\HelloWorld\Go Fish\bin\Debug\Go Fish.pdb
+C:\Users\shail\source\repos\HelloWorld\Go Fish\obj\Debug\Go Fish.csprojAssemblyReference.cache
+C:\Users\shail\source\repos\HelloWorld\Go Fish\obj\Debug\Go Fish.csproj.CoreCompileInputs.cache
+C:\Users\shail\source\repos\HelloWorld\Go Fish\obj\Debug\Go Fish.exe
+C:\Users\shail\source\repos\HelloWorld\Go Fish\obj\Debug\Go Fish.pdb
