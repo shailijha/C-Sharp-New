@@ -1,0 +1,7 @@
+C:\Users\shail\source\repos\HelloWorld\BestHandV2\obj\Debug\BestHandV2.csprojAssemblyReference.cache
+C:\Users\shail\source\repos\HelloWorld\BestHandV2\obj\Debug\BestHandV2.csproj.CoreCompileInputs.cache
+C:\Users\shail\source\repos\HelloWorld\BestHandV2\bin\Debug\BestHandV2.exe.config
+C:\Users\shail\source\repos\HelloWorld\BestHandV2\bin\Debug\BestHandV2.exe
+C:\Users\shail\source\repos\HelloWorld\BestHandV2\bin\Debug\BestHandV2.pdb
+C:\Users\shail\source\repos\HelloWorld\BestHandV2\obj\Debug\BestHandV2.exe
+C:\Users\shail\source\repos\HelloWorld\BestHandV2\obj\Debug\BestHandV2.pdb
